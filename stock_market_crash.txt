@@ -1,0 +1,18 @@
+
+
+    <h2>Causes</h2>
+    <p>The Stock Market Crash of 1929 was caused by a combination of speculative investments, excessive debt, and economic imbalances. During the 1920s, known as the Roaring Twenties, the stock market experienced rapid expansion, leading to overvalued stocks. Many investors bought stocks on margin, meaning they borrowed money to purchase stocks, which created an unsustainable bubble.</p>
+
+    <h2>Key Events</h2>
+    <p>
+        <strong>Black Thursday</strong>: On October 24, 1929, the stock market experienced an unprecedented sell-off, with investors frantically selling their stocks.<br>
+        <strong>Black Monday</strong>: The panic continued on October 28, 1929, with further significant declines in stock prices.<br>
+        <strong>Black Tuesday</strong>: The collapse reached its peak on October 29, 1929, when the stock market lost billions of dollars in value in a single day.
+    </p>
+
+    <h2>Outcome</h2>
+    <p>The crash marked the beginning of the Great Depression, a decade-long economic downturn that affected economies worldwide. Banks failed, businesses closed, and millions of people lost their jobs and savings. The effects of the crash and the subsequent depression were felt globally, leading to widespread poverty and hardship.</p>
+
+    <h2>Significance</h2>
+    <p>The Stock Market Crash of 1929 had profound and lasting effects on the global economy. It led to significant changes in financial regulation and economic policy, including the establishment of the Securities and Exchange Commission (SEC) to regulate the stock market and protect investors. The crash also underscored the importance of economic stability and the dangers of speculative bubbles.</p>
+

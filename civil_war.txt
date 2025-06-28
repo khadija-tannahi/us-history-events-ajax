@@ -1,0 +1,43 @@
+
+    <h2>Causes</h2>
+
+    <p>
+     The Civil War was primarily caused by deep-seated differences between the Northern and Southern states over issues like slavery,
+     states' rights, and economic policies. 
+     The Southern economy relied heavily on slavery, 
+     while the North was more industrialized and opposed the expansion of slavery into new territories.
+    </p>
+
+    <h2>Key Events</h2>
+
+    <p>
+        <strong>Secession</strong>: 
+        Following the election of Abraham Lincoln in 1860, 
+        seven Southern states seceded from the Union and formed the Confederate States of America.
+        <br>
+        <strong>Attack on Fort Sumter</strong>: 
+        The war officially began on April 12, 1861, 
+        when Confederate forces attacked Fort Sumter in South Carolina.
+        <br>
+        <strong>Major Battles</strong>: 
+        Notable battles included the Battle of Gettysburg, 
+        the Battle of Antietam, and the Siege of Vicksburg.
+        <br>
+        <strong>Emancipation Proclamation</strong>: 
+        In 1863, Lincoln issued the Emancipation Proclamation, 
+        which declared all slaves in Confederate-held territory to be free.
+    </p>
+
+    <h2>Outcome</h2>
+    <p>
+      The war ended in 1865 with the surrender of Confederate General Robert E. 
+      Lee to Union General Ulysses S. Grant at Appomattox Court House. 
+      The Union victory preserved the United States as one nation and led to the abolition of slavery.
+      </p>
+
+    <h2>Significance</h2>
+    <p>
+      The Civil War was the deadliest conflict in American history, 
+      with an estimated 620,000 soldiers losing their lives. It resolved the question of whether the United States would remain a unified nation and ended the institution of slavery.
+    </p>
+

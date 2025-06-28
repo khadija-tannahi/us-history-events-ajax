@@ -1,0 +1,20 @@
+
+    <h2>Background</h2>
+    <p>The Boston Tea Party was a political protest that occurred on December 16, 1773, at Griffin’s Wharf in Boston, Massachusetts. American colonists, frustrated and angry at Britain for imposing “taxation without representation,” dumped 342 chests of tea, imported by the British East India Company, into the harbor.</p>
+
+    <h2>Causes</h2>
+    <p>The protest was a response to the Tea Act of 1773, which allowed the British East India Company to sell tea to the colonies duty-free, undercutting local tea merchants. The colonists saw this as an unfair monopoly and a violation of their rights.</p>
+
+    <h2>Key Events</h2>
+    <p>
+        <strong>Disguise and Protest</strong>: The protesters, some disguised as Mohawk Native Americans, boarded the ships and threw the chests of tea into Boston Harbor.<br>
+        <strong>Impact</strong>: The event was a significant act of defiance against British rule and rallied American patriots across the 13 colonies to fight for independence.
+    </p>
+
+    <h2>Outcome</h2>
+    <p>The British government responded harshly to the Boston Tea Party, passing a series of punitive measures known as the Intolerable Acts. These acts further inflamed tensions between Britain and the colonies, eventually leading to the American Revolution.</p>
+
+    <h2>Significance</h2>
+    <p>The Boston Tea Party is considered a pivotal event in American history, symbolizing the colonists' resistance to British oppression and their fight for independence. It remains an iconic moment in the struggle for American liberty.</p>
+
+

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Significant Events in U.S. History</title>
+    <link rel="stylesheet" href="style/stylesheet.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <header>
+
+      <h1> Significant Events in U.S. History</h1>
+
+    </header>
+
+  <main>
+
+
+    <p class="desc-text ">Discover the pivotal moments that have shaped the history of the United States. From revolutionary beginnings to economic upheavals, these events have left an indelible mark on the nation.</p>
+
+    <br><br>
+    
+    <form id="eventForm">
+        <label for="eventSelect">Select a Significant Event in U.S. History:</label>
+        <select id="eventSelect" onchange="showEventDetails()">
+            <option value="">--Select an event--</option>
+            <option value="civilWar">Civil War</option>
+            <option value="declarationIndependence">Declaration of Independence</option>
+            <option value="stockMarketCrash">Stock Market Crash</option>
+            <option value="bostonTeaParty">Boston Tea Party</option>
+        </select>
+    </form>
+
+    <div id="eventDetails"></div>
+
+ </main>
+
+ <footer>
+
+  <h3>&copy; Fall 2024 _ Web Design With Ajax _ Khadija Tannahi _ Significant Events in U.S. History </h3>
+
+  <div class="social-icons">
+    <a href="https://x.com" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+  </div>
+
+
+</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
