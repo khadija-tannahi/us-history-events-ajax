@@ -18,9 +18,6 @@ This project presents a collection of major events in U.S. history through an in
 - AJAX (`fetch()` method)
 
 
-## 🔗 Live Demo
 
-You can view the live project here:  
-[https://www.bdcteach.com/cmt228/khadija/US_Events_KT/](https://www.bdcteach.com/cmt228/khadija/US_Events_KT/)
 
 
